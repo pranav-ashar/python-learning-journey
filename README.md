@@ -4,7 +4,8 @@ Each project focuses on a new concept, starting from the basics and gradually mo
 
 ##Projects Included
 - Print Statement 
-- WordWiz
+- Word Wiz
+- EvalU Metrics
 
 ## Purpose
 This repository is my personal learning log for Python.  
