@@ -6,6 +6,7 @@ Each project focuses on a new concept, starting from the basics and gradually mo
 - Print Statement 
 - Word Wiz
 - EvalU Metrics
+- Pass Pulse
 
 ## Purpose
 This repository is my personal learning log for Python.  
