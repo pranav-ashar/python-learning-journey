@@ -8,6 +8,10 @@ Each project focuses on a new concept, starting from the basics and gradually mo
 - EvalU Metrics
 - Pass Pulse
 
+##Upcoming Projects
+- Contact Book
+- ATM Simulator
+
 ## Purpose
 This repository is my personal learning log for Python.  
 I use it to practice core concepts, improve problem solving, and track my progress over time.
