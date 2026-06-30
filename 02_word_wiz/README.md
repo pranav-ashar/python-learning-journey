@@ -1,7 +1,7 @@
 # Word Wiz
 
 ## Description
-Word Wiz is a beginner Python project that analyzes a sentences entered by the user.
+Word Wiz is a beginner Python project that analyzes a sentence entered by the user.
 
 ## Features
 - Counts Spaces
