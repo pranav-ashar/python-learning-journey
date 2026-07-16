@@ -13,3 +13,6 @@ This is my first Python project, created while learning the `print()` statement.
 
 ## Learning Outcome
 I learned how Python executes statements and displays output in the terminal.
+
+##  Learning Journey 
+Awesome ! 
